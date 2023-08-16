@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+a {
+    color: darkred;
+    text-decoration: none;
+}
+a:focus, a:hover{
+    text-decoration: underline;
+}
